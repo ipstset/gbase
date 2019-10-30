@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "David",
+    "LastName": "Haug",
+    "UserName": "ipstset",
+    "Email": "dhaug1@gmail.com",
+    "DateCreated": "2018-08-10T00:00:00",
+    "Roles": [
+      "admin",
+      "user"
+    ],
+    "Password": "WhgSJpFJpN7he/HfEzq7TRSYZz81CpAnrQwgMIsHYdw=",
+    "Salt": "abc123"
+  },
+  {
+    "Id": 2,
+    "FirstName": null,
+    "LastName": null,
+    "UserName": "jtester",
+    "Email": "jtester@test.me",
+    "DateCreated": "2018-08-10T16:28:01.8177726-05:00",
+    "Roles": [
+      "user"
+    ],
+    "Password": "mRI4c6lcIXhl/umPCzDyMX030uEvT5PDMkyT+CY6AkE=",
+    "Salt": "tHNA2wgQPiMQxm10"
+  }
+]

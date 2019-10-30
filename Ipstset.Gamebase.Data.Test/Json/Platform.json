@@ -1,0 +1,46 @@
+[
+  {
+    "Id": 1,
+    "Name": "Playstation 4"
+  },
+  {
+    "Id": 2,
+    "Name": "Nintendo Switch"
+  },
+  {
+    "Id": 3,
+    "Name": "Xbox One"
+  },
+  {
+    "Id": 4,
+    "Name": "Nintendo 3DS"
+  },
+  {
+    "Id": 5,
+    "Name": "Nintendo Wii U"
+  },
+  {
+    "Id": 6,
+    "Name": "Nintendo Wii"
+  },
+  {
+    "Id": 7,
+    "Name": "Sega Dreamcast"
+  },
+  {
+    "Id": 8,
+    "Name": "Nintendo 64"
+  },
+  {
+    "Id": 9,
+    "Name": "Xbox 360"
+  },
+  {
+    "Id": 10,
+    "Name": "Sony PSP"
+  },
+  {
+    "Id": 11,
+    "Name": "Nintendo DS"
+  }
+]

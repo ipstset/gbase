@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Auth\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ipstset.Api\Ipstset.Api.csproj" />
+    <ProjectReference Include="..\Ipstset.Core\Ipstset.Core.csproj" />
+    <ProjectReference Include="..\Ipstset.Gamebase.Core\Ipstset.Gamebase.Core.csproj" />
+    <ProjectReference Include="..\Ipstset.Gamebase.Data.Test\Ipstset.Gamebase.Data.Test.csproj" />
+    <ProjectReference Include="..\Ipstset.Gamebase.Data\Ipstset.Gamebase.Data.csproj" />
+  </ItemGroup>
+
+</Project>

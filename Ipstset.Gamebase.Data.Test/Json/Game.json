@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 3,
+    "Title": "Far Cry5",
+    "Publisher": "Ubisoft",
+    "Developer": "Ubisoft Montreal",
+    "PlatformId": 1,
+    "Platform": "Playstation 4",
+    "DateReleased": "2018-03-28T00:00:00"
+  },
+  {
+    "Id": 4,
+    "Title": "Sonic Mania",
+    "Publisher": "Sega",
+    "Developer": "",
+    "PlatformId": 2,
+    "Platform": "Nintendo Switch",
+    "DateReleased": null
+  },
+  {
+    "Id": 5,
+    "Title": "Skyrim VR",
+    "Publisher": "",
+    "Developer": "",
+    "PlatformId": 1,
+    "Platform": "Playstation 4",
+    "DateReleased": null
+  },
+  {
+    "Id": 6,
+    "Title": "Skyrim",
+    "Publisher": "",
+    "Developer": "",
+    "PlatformId": 2,
+    "Platform": "Nintendo Switch",
+    "DateReleased": null
+  },
+  {
+    "Id": 7,
+    "Title": "Fire Emblem Warriors",
+    "Publisher": "Koei Tecmo Games",
+    "Developer": "Omega Force",
+    "PlatformId": 2,
+    "Platform": "Nintendo Switch",
+    "DateReleased": "2017-10-20T00:00:00"
+  },
+  {
+    "Id": 8,
+    "Title": "Street Fighter 5",
+    "Publisher": "Capcom",
+    "Developer": "",
+    "PlatformId": 1,
+    "Platform": "Playstation 4",
+    "DateReleased": null
+  },
+  {
+    "Id": 9,
+    "Title": "Gonner",
+    "Publisher": "",
+    "Developer": "",
+    "PlatformId": 2,
+    "Platform": "Nintendo Switch",
+    "DateReleased": null
+  }
+]
